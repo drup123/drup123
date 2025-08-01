@@ -49,13 +49,3 @@ https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoCo
 https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-
-📈 GitHub Analytics
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=drup123&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" width="90%"> <br> <img src="https://github-readme-stats.vercel.app/api?username=drup123&show_icons=true&theme=radical&include_all_commits=true" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=drup123&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drup123&layout=compact&theme=radical&langs_count=8" width="40%"> </div>
-🔥 Current Projects
-<div align="center"> <table> <tr> <td width="50%"> <h3>🧠 AI-Powered Healthcare System</h3> <p>Machine learning model for disease prediction using Python and TensorFlow</p> <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200px" alt="AI project"> </td> <td width="50%"> <h3>🛒 E-Commerce Platform</h3> <p>Full-stack application with React frontend and Spring Boot backend</p> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200px" alt="Web project"> </td> </tr> </table> </div>
-📫 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/drup-patil" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/drup123" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:your-email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.codechef.com/users/drup_27" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a> </p>
-⭐ Fun Fact: When I'm not coding, you'll find me solving algorithmic challenges or exploring new tech trends!
-
-<div align="center"> <img src="https://media.giphy.com/media/LnUt9jYjseKne6Qm0V/giphy.gif" width="150px" alt="Coding is fun"> </div> ```
